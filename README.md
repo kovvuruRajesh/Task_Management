@@ -186,8 +186,8 @@ Welcome to the Task Management microservices project! Follow these steps to set 
 
 2. Clone the project repository by running the following command:
    ```bash
-   git clone [<repository-url>](https://github.com/iammahesh123/Task-Management-System-using-microservices.git)
-   cd Task-Management-System-using-microservices
+   git clone https://github.com/kovvuruRajesh/Task_Management.git
+   cd Task-Management
 
 ### Step 2: Run Eureka Server
 
@@ -219,10 +219,4 @@ For each microservice (UserService, TaskService, TaskSubmissionService), navigat
 Open your web browser and visit http://localhost:8089 to access the API Gateway.
 You've successfully set up the Task Management microservices project on your local machine! Feel free to explore and test the functionalities.
 Feel free to copy and paste this version into your README file. Let me know if there's anything else I can help you with!
-## Contributions
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
