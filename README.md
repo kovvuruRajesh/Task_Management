@@ -217,6 +217,4 @@ For each microservice (UserService, TaskService, TaskSubmissionService), navigat
 
 ### Step 5: Verify Local Setup
 Open your web browser and visit http://localhost:8089 to access the API Gateway.
-You've successfully set up the Task Management microservices project on your local machine! Feel free to explore and test the functionalities.
-Feel free to copy and paste this version into your README file. Let me know if there's anything else I can help you with!
-
+You've successfully set up the Task Management microservices project on your local machine.
